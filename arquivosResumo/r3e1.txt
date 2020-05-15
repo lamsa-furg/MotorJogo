@@ -1,0 +1,893 @@
+=================================================
+========== Rodada: 3
+Fiscal de Atlantis
+Nome: AT1
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Pedidos feitos ao fiscal:
+AT1 pediu: pedir Selo Verde.
+
+
+Saldo atual: 0.0
+
+Poluicao mundial: 34.62493333333333%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpSem
+Setor: semente
+Poluicao: 96.0
+
+==========
+
+Empresario: EmpMaq
+Setor: maquina
+Poluicao: 123.0
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: AT1
+Poluicao media: 300.0
+===== PARCELAS =====
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 5
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 6
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+
+==========
+
+Agricultor: AT2
+Poluicao media: 300.0
+===== PARCELAS =====
+Parcela: 1
+Semente: soja
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 300
+---
+Parcela: 2
+Semente: soja
+Fertilizante: super premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 1200
+---
+Parcela: 3
+Semente: soja
+Fertilizante: super premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 1200
+---
+Parcela: 4
+Semente: soja
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 300
+---
+Parcela: 5
+Semente: soja
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 300
+---
+Parcela: 6
+Semente: soja
+Fertilizante: super premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 1200
+
+==========
+
+Agricultor: AT3
+Poluicao media: 90.0
+===== PARCELAS =====
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 5
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 6
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+=================================================
+=================================================
+========== Rodada: 3
+Fiscal de Cidadela
+Nome: CD2
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Pedidos feitos ao fiscal:
+CD3 pediu: pedir Selo Verde.
+
+
+Saldo atual: 0.0
+
+Poluicao mundial: 34.62493333333333%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpFer
+Setor: fertilizante
+Poluicao: 219.0
+
+==========
+
+Empresario: EmpAgr
+Setor: agrotoxico
+Poluicao: 30.0
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: CD1
+Poluicao media: 28.333333333333332
+===== PARCELAS =====
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 180
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 5
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 200
+---
+Parcela: 6
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 300
+
+==========
+
+Agricultor: CD2
+Poluicao media: 25.0
+===== PARCELAS =====
+Parcela: 1
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 2
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 4
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 120
+---
+Parcela: 5
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 120
+---
+Parcela: 6
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 120
+
+==========
+
+Agricultor: CD3
+Poluicao media: 16.666666666666668
+===== PARCELAS =====
+Parcela: 1
+Semente: hortalica
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 10.0
+Produtividade: 180
+---
+Parcela: 2
+Semente: hortalica
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 10.0
+Produtividade: 180
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 4
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 5
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 6
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+=================================================
+=================================================
+========== Rodada: 3
+Prefeito de Atlantis
+Nome: EmpSem
+
+Caixa anterior: 1579.6573333333336
+Impostos arrecados no ano: 3552.5
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Caixa da prefeitura de Atlantis: 5132.157333333334
+
+Poluicao mundial: 34.62493333333333%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpSem
+Setor: semente
+Produtividade: 915
+Imposto: 320.25
+Poluicao pessoal: 96.0
+
+==========
+
+Empresario: EmpMaq
+Setor: maquina
+Produtividade: 1225
+Imposto: 428.75
+Poluicao pessoal: 123.0
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: AT1
+Produtividade: 5400
+Imposto: 944.9999999999999
+Poluicao media pessoal: 300.0
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 5
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+---
+Parcela: 6
+Semente: soja
+Fertilizante: premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 300.0
+Produtividade: 900
+
+==========
+
+Agricultor: AT2
+Produtividade: 4500
+Imposto: 1575.0
+Poluicao media pessoal: 300.0
+Parcela: 1
+Semente: soja
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 300
+---
+Parcela: 2
+Semente: soja
+Fertilizante: super premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 1200
+---
+Parcela: 3
+Semente: soja
+Fertilizante: super premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 1200
+---
+Parcela: 4
+Semente: soja
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 300
+---
+Parcela: 5
+Semente: soja
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 300
+---
+Parcela: 6
+Semente: soja
+Fertilizante: super premium
+Agrotoxico: super premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 300.0
+Produtividade: 1200
+
+==========
+
+Agricultor: AT3
+Produtividade: 1620
+Imposto: 283.5
+Poluicao media pessoal: 90.0
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 5
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 6
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 90.0
+Produtividade: 270
+=================================================
+=================================================
+========== Rodada: 3
+Prefeito de Cidadela
+Nome: CD1
+
+Caixa anterior: 3660.078666666667
+Impostos arrecados no ano: 1352.75
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Caixa da prefeitura de Cidadela: 5012.828666666666
+
+Poluicao mundial: 34.62493333333333%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpFer
+Setor: fertilizante
+Produtividade: 1905
+Imposto: 666.75
+Poluicao pessoal: 219.0
+
+==========
+
+Empresario: EmpAgr
+Setor: agrotoxico
+Produtividade: 360
+Imposto: 125.99999999999999
+Poluicao pessoal: 30.0
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: CD1
+Produtividade: 1580
+Imposto: 276.5
+Poluicao media pessoal: 28.333333333333332
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 180
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 5
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 200
+---
+Parcela: 6
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 300
+
+==========
+
+Agricultor: CD2
+Produtividade: 720
+Imposto: 125.99999999999999
+Poluicao media pessoal: 25.0
+Parcela: 1
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 2
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 4
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 120
+---
+Parcela: 5
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 120
+---
+Parcela: 6
+Semente: soja
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 120
+
+==========
+
+Agricultor: CD3
+Produtividade: 900
+Imposto: 157.5
+Poluicao media pessoal: 16.666666666666668
+Parcela: 1
+Semente: hortalica
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 10.0
+Produtividade: 180
+---
+Parcela: 2
+Semente: hortalica
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 10.0
+Produtividade: 180
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 4
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 5
+Semente: arroz
+Fertilizante: comum
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 120
+---
+Parcela: 6
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+=================================================
+=================================================
+========== Rodada: 3
+Vereador de Atlantis
+Nome: AT3
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Saldo atual: 0.0
+
+Poluicao mundial: 34.62493333333333%
+=================================================
+=================================================
+========== Rodada: 3
+Vereador de Cidadela
+Nome: EmpAgr
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Saldo atual: 0.0
+
+Poluicao mundial: 34.62493333333333%
+=================================================
+

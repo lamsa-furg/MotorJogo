@@ -1,0 +1,1065 @@
+=================================================
+========== Rodada: 1
+Nome: EmpSem
+
+Saldo anterior: 100.0
+
+* Creditos:
+Vendas: 735.0
+
+* Debitos:
+Imposto pago: 220.5
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Saldo atual: 614.5
+
+Poluicao pessoal: 82.0
+Poluicao causada no Mundo: 0.082%
+Poluicao Mundial: 23.853%
+=================================================
+=================================================
+========== Rodada: 1
+Nome: EmpFer
+
+Saldo anterior: 100.0
+
+* Creditos:
+Vendas: 2245.0
+
+* Debitos:
+Imposto pago: 673.5
+Multa: 198.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Saldo atual: 1473.5
+
+Poluicao pessoal: 198.0
+Poluicao causada no Mundo: 0.198%
+Poluicao Mundial: 23.853%
+=================================================
+=================================================
+========== Rodada: 1
+Nome: EmpMaq
+
+Saldo anterior: 100.0
+
+* Creditos:
+Vendas: 1830.0
+
+* Debitos:
+Imposto pago: 549.0
+Multa: 594.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Saldo atual: 787.0
+
+Poluicao pessoal: 198.0
+Poluicao causada no Mundo: 0.198%
+Poluicao Mundial: 23.853%
+=================================================
+=================================================
+========== Rodada: 1
+Nome: EmpAgr
+
+Saldo anterior: 100.0
+
+* Creditos:
+Vendas: 30.0
+
+* Debitos:
+Imposto pago: 3.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Saldo atual: 127.0
+
+Poluicao pessoal: 9.0
+Poluicao causada no Mundo: 0.009%
+Poluicao Mundial: 23.853%
+=================================================
+=================================================
+========== Rodada: 1
+Nome: AT1
+
+Saldo anterior: 600.0
+
+* Creditos:
+Produtividade: 2400
+
+* Debitos:
+Imposto pago: 720.0
+Gastos: 1180.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Saldo atual: 1100.0
+
+Poluicao pessoal: 30.0
+Poluicao causada no mundo: 0.03%
+Poluicao mundial: 23.853%
+
+DADOS DAS PARCELAS: 
+==========
+Parcela: 1
+Semente: soja
+Fertilizante: super premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 400
+---
+Parcela: 2
+Semente: soja
+Fertilizante: super premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 400
+---
+Parcela: 3
+Semente: soja
+Fertilizante: super premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 400
+---
+Parcela: 4
+Semente: soja
+Fertilizante: super premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 400
+---
+Parcela: 5
+Semente: soja
+Fertilizante: super premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 400
+---
+Parcela: 6
+Semente: soja
+Fertilizante: super premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 400
+=================================================
+=================================================
+========== Rodada: 1
+Nome: CD1
+
+Saldo anterior: 600.0
+
+* Creditos:
+Produtividade: 1800
+
+* Debitos:
+Imposto pago: 540.0
+Gastos: 995.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Saldo atual: 865.0
+
+Poluicao pessoal: 23.333333333333332
+Poluicao causada no mundo: 0.02333333333333333%
+Poluicao mundial: 23.853%
+
+DADOS DAS PARCELAS: 
+==========
+Parcela: 1
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 300
+---
+Parcela: 2
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 300
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 4
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+---
+Parcela: 5
+Semente: hortalica
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 10.0
+Produtividade: 300
+---
+Parcela: 6
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 3
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 30.0
+Produtividade: 300
+=================================================
+=================================================
+========== Rodada: 1
+Nome: AT2
+
+Saldo anterior: 600.0
+
+* Creditos:
+Produtividade: 810
+
+* Debitos:
+Imposto pago: 243.0
+Gastos: 475.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Saldo atual: 692.0
+
+Poluicao pessoal: 46.666666666666664
+Poluicao causada no mundo: 0.04666666666666666%
+Poluicao mundial: 23.853%
+
+DADOS DAS PARCELAS: 
+==========
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 90.0
+Produtividade: 270
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: premium
+Agrotoxico: comum
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 60.0
+Produtividade: 180
+---
+Parcela: 4
+Semente: arroz
+Fertilizante: premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 30
+---
+Parcela: 5
+Semente: hortalica
+Fertilizante: premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 10.0
+Produtividade: 30
+---
+Parcela: 6
+Semente: hortalica
+Fertilizante: premium
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 10.0
+Produtividade: 30
+=================================================
+=================================================
+========== Rodada: 1
+Nome: CD2
+
+Saldo anterior: 600.0
+
+* Creditos:
+Produtividade: 1080
+
+* Debitos:
+Imposto pago: 324.0
+Gastos: 765.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Saldo atual: 591.0
+
+Poluicao pessoal: 20.0
+Poluicao causada no mundo: 0.02%
+Poluicao mundial: 23.853%
+
+DADOS DAS PARCELAS: 
+==========
+Parcela: 1
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 2
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 4
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 5
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 6
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Sim
+Poluicao: 20.0
+Produtividade: 180
+=================================================
+=================================================
+========== Rodada: 1
+Nome: AT3
+
+Saldo anterior: 600.0
+
+* Creditos:
+Produtividade: 540
+
+* Debitos:
+Imposto pago: 162.0
+Gastos: 615.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Saldo atual: 363.0
+
+Poluicao pessoal: 20.0
+Poluicao causada no mundo: 0.02%
+Poluicao mundial: 23.853%
+
+DADOS DAS PARCELAS: 
+==========
+Parcela: 1
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 1
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 90
+---
+Parcela: 2
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 1
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 90
+---
+Parcela: 3
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 1
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 90
+---
+Parcela: 4
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 1
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 90
+---
+Parcela: 5
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 1
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 90
+---
+Parcela: 6
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 1
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 90
+=================================================
+=================================================
+========== Rodada: 1
+Nome: CD3
+
+Saldo anterior: 600.0
+
+* Creditos:
+Produtividade: 1080
+
+* Debitos:
+Imposto pago: 324.0
+Gastos: 810.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Saldo atual: 546.0
+
+Poluicao pessoal: 23.333333333333332
+Poluicao causada no mundo: 0.02333333333333333%
+Poluicao mundial: 23.853%
+
+DADOS DAS PARCELAS: 
+==========
+Parcela: 1
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 180
+---
+Parcela: 2
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 180
+---
+Parcela: 3
+Semente: soja
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 30.0
+Produtividade: 180
+---
+Parcela: 4
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 5
+Semente: arroz
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 20.0
+Produtividade: 180
+---
+Parcela: 6
+Semente: hortalica
+Fertilizante: premium
+Maquina: maquinas 2
+Pulverizador? Nao
+Selo Verde? Nao
+Poluicao: 10.0
+Produtividade: 180
+=================================================
+=================================================
+========== Rodada: 1
+Fiscal de Atlantis
+Nome: EmpSem
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Saldo atual: 0.0
+
+Poluicao mundial: 23.853%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpSem
+Setor: semente
+Poluicao: 82.0
+Multa paga: Nao foi cobrado multa
+
+==========
+
+Empresario: EmpMaq
+Setor: maquina
+Poluicao: 198.0
+Multa paga: 594.0
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: AT1
+Poluicao media: 30.0
+Multa paga: Nao foi cobrado multa
+===== PARCELAS =====
+Parcela: 1
+Selo Verde? Nao
+---
+Parcela: 2
+Selo Verde? Nao
+---
+Parcela: 3
+Selo Verde? Nao
+---
+Parcela: 4
+Selo Verde? Nao
+---
+Parcela: 5
+Selo Verde? Nao
+---
+Parcela: 6
+Selo Verde? Nao
+
+==========
+
+Agricultor: AT2
+Poluicao media: 46.666666666666664
+Multa paga: Nao foi cobrado multa
+===== PARCELAS =====
+Parcela: 1
+Selo Verde? Nao
+---
+Parcela: 2
+Selo Verde? Nao
+---
+Parcela: 3
+Selo Verde? Nao
+---
+Parcela: 4
+Selo Verde? Nao
+---
+Parcela: 5
+Selo Verde? Nao
+---
+Parcela: 6
+Selo Verde? Nao
+
+==========
+
+Agricultor: AT3
+Poluicao media: 20.0
+Multa paga: Nao foi cobrado multa
+===== PARCELAS =====
+Parcela: 1
+Selo Verde? Nao
+---
+Parcela: 2
+Selo Verde? Nao
+---
+Parcela: 3
+Selo Verde? Nao
+---
+Parcela: 4
+Selo Verde? Nao
+---
+Parcela: 5
+Selo Verde? Nao
+---
+Parcela: 6
+Selo Verde? Nao
+=================================================
+=================================================
+========== Rodada: 1
+Fiscal de Cidadela
+Nome: CD2
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Saldo atual: 0.0
+
+Poluicao mundial: 23.853%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpFer
+Setor: fertilizante
+Poluicao: 198.0
+Multa paga: 198.0
+
+==========
+
+Empresario: EmpAgr
+Setor: agrotoxico
+Poluicao: 9.0
+Multa paga: Nao foi cobrado multa
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: CD1
+Poluicao media: 23.333333333333332
+Multa paga: Nao foi cobrado multa
+===== PARCELAS =====
+Parcela: 1
+Selo Verde? Sim
+---
+Parcela: 2
+Selo Verde? Sim
+---
+Parcela: 3
+Selo Verde? Sim
+---
+Parcela: 4
+Selo Verde? Sim
+---
+Parcela: 5
+Selo Verde? Sim
+---
+Parcela: 6
+Selo Verde? Sim
+
+==========
+
+Agricultor: CD2
+Poluicao media: 20.0
+Multa paga: Nao foi cobrado multa
+===== PARCELAS =====
+Parcela: 1
+Selo Verde? Sim
+---
+Parcela: 2
+Selo Verde? Sim
+---
+Parcela: 3
+Selo Verde? Sim
+---
+Parcela: 4
+Selo Verde? Sim
+---
+Parcela: 5
+Selo Verde? Sim
+---
+Parcela: 6
+Selo Verde? Sim
+
+==========
+
+Agricultor: CD3
+Poluicao media: 23.333333333333332
+Multa paga: Nao foi cobrado multa
+===== PARCELAS =====
+Parcela: 1
+Selo Verde? Nao
+---
+Parcela: 2
+Selo Verde? Nao
+---
+Parcela: 3
+Selo Verde? Nao
+---
+Parcela: 4
+Selo Verde? Nao
+---
+Parcela: 5
+Selo Verde? Nao
+---
+Parcela: 6
+Selo Verde? Nao
+=================================================
+=================================================
+========== Rodada: 1
+Prefeito de Atlantis
+Nome: EmpMaq
+
+Caixa anterior: 1000.0
+Impostos arrecados no ano: 1894.5
+Multas arrecadadas no ano: 594.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Caixa da prefeitura de Atlantis: 1888.5
+
+Poluicao mundial: 23.853%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpSem
+Setor: semente
+Produtividade: 735
+Imposto: 220.5
+Poluicao pessoal: 82.0
+Multa: Nao pagou multa
+
+==========
+
+Empresario: EmpMaq
+Setor: maquina
+Produtividade: 1830
+Imposto: 549.0
+Poluicao pessoal: 198.0
+Multa: 594.0
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: AT1
+Produtividade: 2400
+Imposto: 720.0
+Poluicao media pessoal: 30.0
+Multa: Nao pagou multa
+
+==========
+
+Agricultor: AT2
+Produtividade: 810
+Imposto: 243.0
+Poluicao media pessoal: 46.666666666666664
+Multa: Nao pagou multa
+
+==========
+
+Agricultor: AT3
+Produtividade: 540
+Imposto: 162.0
+Poluicao media pessoal: 20.0
+Multa: Nao pagou multa
+=================================================
+=================================================
+========== Rodada: 1
+Prefeito de Cidadela
+Nome: CD1
+
+Caixa anterior: 1000.0
+Impostos arrecados no ano: 1864.5
+Multas arrecadadas no ano: 198.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Caixa da prefeitura de Cidadela: 3062.5
+
+Poluicao mundial: 23.853%
+
+==========
+EMPRESARIOS:
+==========
+
+Empresario: EmpFer
+Setor: fertilizante
+Produtividade: 2245
+Imposto: 673.5
+Poluicao pessoal: 198.0
+Multa: 198.0
+
+==========
+
+Empresario: EmpAgr
+Setor: agrotoxico
+Produtividade: 30
+Imposto: 3.0
+Poluicao pessoal: 9.0
+Multa: Nao pagou multa
+
+==========
+AGRICULTORES:
+==========
+
+Agricultor: CD1
+Produtividade: 1800
+Imposto: 540.0
+Poluicao media pessoal: 23.333333333333332
+Multa: Nao pagou multa
+
+==========
+
+Agricultor: CD2
+Produtividade: 1080
+Imposto: 324.0
+Poluicao media pessoal: 20.0
+Multa: Nao pagou multa
+
+==========
+
+Agricultor: CD3
+Produtividade: 1080
+Imposto: 324.0
+Poluicao media pessoal: 23.333333333333332
+Multa: Nao pagou multa
+=================================================
+=================================================
+========== Rodada: 1
+Vereador de Atlantis
+Nome: AT3
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Lixo (1600.0)
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$15.0
+
+
+Saldo atual: 0.0
+
+Poluicao mundial: 23.853%
+=================================================
+=================================================
+========== Rodada: 1
+Vereador de Cidadela
+Nome: EmpAgr
+
+Saldo anterior: 0.0
+
+Transferencias:
+* Tranferidos:
+Nao efetuou nenhuma transferencia
+* Recebidos:
+Nao recebeu nenhuma transferencia
+
+Acoes Ambientais usadas pelo prefeito nessa rodada:
+Nenhuma Acao Ambiental foi usada
+
+Mudancas de taxas feitas pelo prefeito nessa rodada:
+Taxa do tipo 1 mudada para D$5.0
+Taxa do tipo 3 mudada para 35.0%
+
+
+Saldo atual: 0.0
+
+Poluicao mundial: 23.853%
+=================================================
+
