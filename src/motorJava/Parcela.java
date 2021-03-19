@@ -206,9 +206,9 @@ public class Parcela {
 	    	
 	    	if (this.produtos[2] != null) {
 	    		String agrMaq = this.produtos[2].getTipo();
-	    		if(agrMaq.equals("comum") || agrMaq.equals("maquinas 1")) prod *= 3;
+	    		if(agrMaq.equals("super premium") || agrMaq.equals("maquinas 1")) prod *= 3;
 	            else if(agrMaq.equals("premium") || agrMaq.equals("maquinas 2")) prod *= 6;
-	            else if(agrMaq.equals("super premium") || agrMaq.equals("maquinas 3")) prod *= 10;
+	            else if(agrMaq.equals("comum") || agrMaq.equals("maquinas 3")) prod *= 10;
 	    		
 	    		String sem = this.produtos[0].getTipo();
 	    		
