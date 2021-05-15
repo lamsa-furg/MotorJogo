@@ -206,9 +206,9 @@ public class Parcela {
 	    	
 	    	if (this.produtos[2] != null) {
 	    		String agrMaq = this.produtos[2].getTipo();
-	    		if(agrMaq.equals("super premium") || agrMaq.equals("maquinas 1")) prod *= 3;
+	    		if(agrMaq.equals("comum") || agrMaq.equals("maquinas 1")) prod *= 3;
 	            else if(agrMaq.equals("premium") || agrMaq.equals("maquinas 2")) prod *= 6;
-	            else if(agrMaq.equals("comum") || agrMaq.equals("maquinas 3")) prod *= 10;
+	            else if(agrMaq.equals("super premium") || agrMaq.equals("maquinas 3")) prod *= 10;
 	    		
 	    		String sem = this.produtos[0].getTipo();
 	    		
@@ -239,9 +239,9 @@ public class Parcela {
         	if( this.produtos[2] != null ) {
                 String agr = this.produtos[2].getTipo();
                 
-                if(agr.equals("comum")) polu *= 3;
+                if(agr.equals("comum")) polu *= 10;
                 else if(agr.equals("premium")) polu *= 6;
-                else if(agr.equals("super premium")) polu *= 10;
+                else if(agr.equals("super premium")) polu *= 3;
         	}
 
             if(usaPulverizador) polu /= 2;
